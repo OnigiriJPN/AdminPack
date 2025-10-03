@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "UIAdmin Panel BP",
+    "description": "§eUIで、コマンド指定できます。\n by OnigiriTV!!!",
+    "uuid": "7d0eba98-d3d9-42b3-ba82-5978eb0317dc",
+    "version": [1,0,0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "f32856a2-d161-4b35-80cd-b99404ddc6af",
+      "version": [1,0,0],
+      "entry": "items/admin_menu.json"
+    },
+    {
+      "type": "scripting",
+      "uuid": "f93eeac9-0386-4d61-9444-5d48f09a9933",
+      "version": [1,0,0],
+      "entry": "scripts/main.js"
+    }
+  ]
+}

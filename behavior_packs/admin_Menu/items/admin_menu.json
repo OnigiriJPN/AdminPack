@@ -1,0 +1,22 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "UIA:item",
+      "category": "UIAAdmin",
+      "is_experimental": false,
+      "register_to_creative_inventory": true
+    },
+    "components": {
+      "minecraft:hand_equipped": true,
+      "minecraft:max_stack_size": 1,
+      "minecraft:display_name": {
+        "value": "§bUIAAdminメニューアイテム"
+      },
+      "minecraft:description": {
+        "value": "メニューアイテムで、コマンド制御可能！"
+      },
+      "minecraft:texture": "textures/items/admin_menu"
+    }
+  }
+}
