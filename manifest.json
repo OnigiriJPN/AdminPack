@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eUIで、コマンド指定できます。\n by OnigiriTV!!!",
+    "name": "UIAdmin Panel AllPack",
+    "uuid": "cae86a07-c7eb-4b72-a03a-e08b2657f469",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Behavior Pack Module",
+      "type": "data",
+      "uuid": "05820731-2f2e-4cc8-96b9-78375af709da",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "Resource Pack Module",
+      "type": "resources",
+      "uuid": "f74594ff-021d-4b9c-89d9-9d20543d2e0a",
+      "version": [1, 0, 0]
+    }
+  ]
+}
